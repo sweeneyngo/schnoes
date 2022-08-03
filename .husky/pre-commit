@@ -6,3 +6,5 @@ echo "👏 Running pre-commit hooks for lint + format, ruff!"
 yarn lint
 yarn lint-conflict
 yarn format
+
+echo "👏 Running pre-commit hooks for testing, bark!"
